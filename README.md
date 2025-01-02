@@ -29,6 +29,7 @@ Unordered Lists: <ul> for bulleted lists.
 List Items: <li> tags inside <ol> or <ul>.
 Links: <a href="URL"> creates hyperlinks to navigate between pages or sites.
 Images: The <img> tag is used to embed images, with the src attribute pointing to the image source and the alt attribute describing the image for accessibility.
+
 2. Semantic HTML
 Semantic Tags:
 
